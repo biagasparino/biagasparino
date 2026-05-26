@@ -21,8 +21,8 @@ Tenho foco em construir observabilidade de ponta a ponta: coleta de dados, corre
 
 - 🏢 Atualmente na **T-Systems** como Analista de Monitoramento & Observabilidade
 - 🔭 Explorando **Kubernetes**, **Prometheus** e práticas modernas de SRE
-- 🎯 Objetivo: atuar como **SRE Pleno** em empresas de produto ou fintechs
-- 📍 Santo André, SP — aberta a posições remotas
+- 🎯 Objetivo: atuar como **SRE Pleno** 
+- 📍 Santo André, SP 
 
 ---
 
