@@ -82,8 +82,8 @@ Stack local de observabilidade construída para estudo e demonstração de boas 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=biagasparino&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biagasparino&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
