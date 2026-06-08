@@ -1,5 +1,5 @@
 <h1 align="center">Bianca Gasparino de Campos</h1>
-<h3 align="center">Engenheira de Observabilidade & SRE | Monitoramento · Alertas · Automação</h3>
+<h3 align="center">Analista de Observabilidade & SRE | Monitoramento · Alertas · Automação</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
@@ -21,7 +21,6 @@ Tenho foco em construir observabilidade de ponta a ponta: coleta de dados, corre
 
 - 🏢 Atualmente na **T-Systems** como Analista de Monitoramento & Observabilidade
 - 🔭 Explorando **Kubernetes**, **Prometheus** e práticas modernas de SRE
-- 🎯 Objetivo: atuar como **SRE Pleno** 
 - 📍 Santo André, SP 
 
 ---
@@ -88,7 +87,3 @@ Stack local de observabilidade construída para estudo e demonstração de boas 
 </p>
 
 ---
-
-<p align="center">
-  <i>Aberta a oportunidades em SRE, Observabilidade e Platform Engineering — presencial em SP ou remoto.</i>
-</p>
