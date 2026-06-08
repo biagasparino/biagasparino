@@ -53,7 +53,7 @@ Tenho foco em construir observabilidade de ponta a ponta: coleta de dados, corre
 
 ## 📂 Projetos em Destaque
 
-### 🔭 [observability-homelab](https://github.com/SEU-USUARIO/observability-homelab)
+### 🔭 [observability-homelab](https://github.com/biagasparino/observability-homelab)
 > Stack completa de monitoramento com Prometheus, Grafana e Alertmanager via Docker Compose
 
 Stack local de observabilidade construída para estudo e demonstração de boas práticas SRE:
