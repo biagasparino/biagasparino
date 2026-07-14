@@ -1,16 +1,30 @@
-## Hi there 👋
+👩‍💻 About Me
 
-<!--
-**biagasparino/biagasparino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have experience in technical support, infrastructure, and operational data analysis, with a background in system monitoring, report automation, and dashboard development.
 
-Here are some ideas to get you started:
+Throughout my professional journey, I have been developing my analytical skills — exploring Python, data processing, data visualization, and SQL to transform raw data into useful information for decision-making. I have a degree in Systems Analysis and Development, with a foundation in programming, databases, and agile methodologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository brings together practical projects developed to apply concepts related to data analysis, automation, and information visualization.
+
+🛠️ Technologies and Tools
+Programming Language: Python
+Libraries: Currently learning
+Database: SQL
+Web Scraping: Currently learning
+Environment: Currently learning
+
+📚 Current Studies
+
+Currently following the AI/Data Scientist roadmap:
+
+https://roadmap.sh/ai-data-scientist/
+
+📂 Projects
+
+[In progress]
+
+🎯 Purpose
+
+To document my practical growth in data analysis and data manipulation, applying techniques for data cleaning, exploration, visualization, and modeling across different contexts.
+
+LinkedIn: [linkedin.com/in/bianca-gasparino](https://www.linkedin.com/in/bianca-gasparino/)
