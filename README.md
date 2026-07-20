@@ -21,6 +21,6 @@ https://roadmap.sh/ai-data-scientist/
 
 📂 Projects
 
-[In progress]
+Python web scraper built with Requests and BeautifulSoup: (https://github.com/biagasparino/python-job-scraper)
 
 LinkedIn: [linkedin.com/in/bianca-gasparino](https://www.linkedin.com/in/bianca-gasparino/)
