@@ -23,8 +23,4 @@ https://roadmap.sh/ai-data-scientist/
 
 [In progress]
 
-🎯 Purpose
-
-To document my practical growth in data analysis and data manipulation, applying techniques for data cleaning, exploration, visualization, and modeling across different contexts.
-
 LinkedIn: [linkedin.com/in/bianca-gasparino](https://www.linkedin.com/in/bianca-gasparino/)
