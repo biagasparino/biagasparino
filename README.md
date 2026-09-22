@@ -29,7 +29,7 @@ I like simple, gentle things: organizing my ideas into little lists, taking care
 💌 let's connect
 <div align="center">
 
-LinkedIn Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C9A9E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-gasparino/)
 
 </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A9E9,100:FFD1DC&height=120&section=footer" width="100%"/>
 
