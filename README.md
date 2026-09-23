@@ -23,7 +23,7 @@ I'm driven by constant learning, teamwork, and doing things with care — from t
 <br>
 🎧 when I'm not working...
 
-I like simple, gentle things: organizing my ideas into little lists, taking care of my personal projects at my own pace, and learning new things just out of curiosity. I believe kindness and softness have their place in tech too — and I try to carry that with me every day!
+I like simple, gentle things: organizing my ideas into little lists, taking care of my personal projects at my own pace, and learning new things just out of curiosity. I believe kindness and softness have their place in tech too — and I try to carry that with me every day.
 
 <br>
 💌 let's connect
