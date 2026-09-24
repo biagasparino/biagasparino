@@ -3,7 +3,7 @@
 [![Portuguese (BR) Version](https://img.shields.io/badge/🇧🇷_Read_in_Portuguese-E8D5B7?style=for-the-badge&logoColor=594A3C)](README.pt-br.md)
 
 </div> <br>
-🎀 about me
+about me
 
 I'm a curious, organized person who loves understanding how things work behind the scenes. Day to day, I care for the stability and health of systems and environments — I enjoy spotting problems before they happen and turning mess into something simple and clear.
 
@@ -12,7 +12,7 @@ I have a soft spot for automating repetitive tasks, building pretty dashboards t
 I'm driven by constant learning, teamwork, and doing things with care — from the smallest detail to the final result. 
 
 <br>
-🌸 what I love doing
+what I love doing:
 💚 caring for the stability and health of systems, with lots of attention to detail
 🔎 investigating, understanding root causes, and solving problems calmly
 ⚙️ automating processes to make everyday work simpler for the people around me
@@ -26,7 +26,7 @@ I'm driven by constant learning, teamwork, and doing things with care — from t
 I like simple, gentle things: organizing my ideas into little lists, taking care of my personal projects at my own pace, and learning new things just out of curiosity. I believe kindness and softness have their place in tech too — and I try to carry that with me every day.
 
 <br>
-💌 let's connect
+let's connect!
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C9A9E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-gasparino/)
