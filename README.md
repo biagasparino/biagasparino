@@ -9,7 +9,7 @@ I'm a curious, organized person who loves understanding how things work behind t
 
 I have a soft spot for automating repetitive tasks, building pretty dashboards that tell a story with data, and that cozy feeling of finding the real cause of a problem after investigating calmly.
 
-I'm driven by constant learning, teamwork, and doing things with care — from the smallest detail to the final result. 🌷
+I'm driven by constant learning, teamwork, and doing things with care — from the smallest detail to the final result. 
 
 <br>
 🌸 what I love doing
