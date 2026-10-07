@@ -3,7 +3,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=800&color=D9A5D9&center=true&vCenter=true&width=500&lines=keeping+things+standing+tall+%E2%98%81%EF%B8%8F;curious+about+how+things+work+%F0%9F%94%8D;turning+chaos+into+calm+%E2%9C%A8" alt="Typing SVG" />
 
-  [![Portuguese (BR) Version](https://img.shields.io/badge/🇧🇷_Read_in_Portuguese-E8D5B7?style=for-the-badge&logoColor=594A3C)](README.pt-br.md)
+  [![Portuguese (BR) Version](https://img.shields.io/badge/🇧🇷_Read_in_Portuguese-E8D5B7?style=for-the-badge&logoColor=594A3C)](README.pt-br/tree/main)
 
 </div> <br>
 about me
