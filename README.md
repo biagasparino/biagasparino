@@ -16,13 +16,13 @@ I'm driven by constant learning, teamwork, and doing things with care — from t
 
 <br>
 what I love doing:
-💚 caring for the stability and health of systems, with lots of attention to detail
-🔎 investigating, understanding root causes, and solving problems calmly
-⚙️ automating processes to make everyday work simpler for the people around me
-☁️ working with cloud environments, always aiming to keep things tidy
-📊 building dashboards and visuals that help people see information clearly
-🤝 collaborating with people from different teams, in Portuguese and in English
-🌱 learning something new pretty much every day
+- caring for the stability and health of systems, with lots of attention to detail
+- investigating, understanding root causes, and solving problems calmly
+- automating processes to make everyday work simpler for the people around me
+- working with cloud environments, always aiming to keep things tidy
+- building dashboards and visuals that help people see information clearly
+- collaborating with people from different teams, in Portuguese and in English
+- learning something new pretty much every day
 <br>
 🎧 when I'm not working...
 
@@ -35,7 +35,5 @@ let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C9A9E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-gasparino/)
 
 </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A9E9,100:FFD1DC&height=120&section=footer" width="100%"/>
-
-<sub>made with 🩷 and a cup of coffee</sub>
 
 </div>
