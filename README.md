@@ -22,7 +22,7 @@ what I love doing:
 - working with cloud environments, always aiming to keep things tidy
 - building dashboards and visuals that help people see information clearly
 - collaborating with people from different teams, in Portuguese and in English
-- learning something new pretty much every day<br><br>
+- learning something new pretty much every day<br>
 <br>
 🎧 when I'm not working...<br>
 
