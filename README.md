@@ -24,6 +24,7 @@ what I love doing:
 - collaborating with people from different teams, in Portuguese and in English
 - learning something new pretty much every day
 <br>
+
 🎧 when I'm not working...
 
 I like simple, gentle things: organizing my ideas into little lists, taking care of my personal projects at my own pace, and learning new things just out of curiosity. I believe kindness and softness have their place in tech too — and I try to carry that with me every day.
