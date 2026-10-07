@@ -25,8 +25,8 @@ what I love doing:
 - learning something new pretty much every day
 <br>
 
-🎧 when I'm not working...
-<br>
+🎧 when I'm not working...<br><br>
+
 I like simple, gentle things: organizing my ideas into little lists, taking care of my personal projects at my own pace, and learning new things just out of curiosity. I believe kindness and softness have their place in tech too — and I try to carry that with me every day.
 
 <br>
